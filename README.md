@@ -123,9 +123,9 @@ pip install tweepy textblob better_profanity wordcloud matplotlib numpy pandas
 Keep your Twitter API credentials private. Never upload them publicly to GitHub or any version control.
 
 👨‍💻 Contact 
-Name: Adio Muizz Adeniyi
-📧 muizzadio@gmail.com
-🌍 LinkedIn
+- Name: Adio Muizz Adeniyi
+- 📧 muizzadio@gmail.com
+- 🌍 LinkedIn
 
 
 
